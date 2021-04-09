@@ -6,4 +6,4 @@ O curso HTML5 e CSS3 é dividido em 4 partes:
 * HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas
 * HTML5 e CSS3 parte 4: Avançando no CSS
  
-O projeto é unificado, pois cada parte da continuidade no projeto anterior.
+O projeto é unificado, pois cada parte dá continuidade no projeto anterior.
