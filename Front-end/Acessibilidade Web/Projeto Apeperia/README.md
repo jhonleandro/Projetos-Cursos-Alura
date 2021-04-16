@@ -1,8 +1,5 @@
-# Curso Acessibilidade Web
+# Projeto Apeperia
 
-O curso de acessibilidade web é composto por 3 partes:
-* Acessibilidade web: introdução a designs inclusivos
-* Acessibilidade web parte 1: tornando seu front-end inclusivo
-* Acessibilidade web parte 2: Componentes acessíveis com um pouco de JavaScript
+Um projeto de um site de uma barbearia, feito de maneira simples, mas inclusiva, feito usando HTML, CSS e JS. É composto por apenas uma página, sendo ela a home. O projeto foi feito visando ser um site acessível à todas as pessoas.
 
-O projeto é unificado, pois cada parte dá continuidade no projeto anterior.
+Obs: se for tentar o projeto é possível que haja problemas deve a utilização do JQuery no arquivo mailcheck.js.
