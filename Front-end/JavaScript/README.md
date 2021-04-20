@@ -1,4 +1,4 @@
-# Curso JavaScript
+# Cursos JavaScript
 
 Existem diversos curso de JavaScript, eles são:
 * JavaScript: Programando na linguagem da web
