@@ -1,1 +1,1 @@
-Curso introdutório, o fiz para revisão.
+Curso introdutório, trabalha com variáveis, controle de fluxo, condicionais e laços de repetição.
