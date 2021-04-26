@@ -1,0 +1,1 @@
+Curso introdutório-intermediário. Nele foi aprofundado com o conhecimento em Orientação a Objetos(herança), apresentado o "DuckType" e por fim boa práticas de programação como não repetição de código.
